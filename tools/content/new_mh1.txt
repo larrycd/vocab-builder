@@ -1,0 +1,167 @@
+shalom|שלום|shah-LOHM|interjection|hello; goodbye; peace|
+boker tov|בוקר טוב|BOH-ker TOHV|phrase|good morning|
+erev tov|ערב טוב|EH-rev TOHV|phrase|good evening|
+layla tov|לילה טוב|LY-lah TOHV|phrase|good night|
+lehitra'ot|להתראות|leh-heet-rah-OHT|phrase|see you; goodbye|
+bye|ביי|BY|interjection|bye (borrowed from English)|
+toda|תודה|toh-DAH|interjection|thank you|
+toda raba|תודה רבה|toh-DAH rah-BAH|phrase|thank you very much|
+bevakasha|בבקשה|beh-vah-kah-SHAH|phrase|please; you're welcome; here you are|
+slicha|סליחה|slee-KHAH|interjection|sorry; excuse me|
+ken|כן|KEN|interjection|yes|
+lo|לא|LOH|interjection|no; not|
+ma shlomcha?|מה שלומך|mah shlohm-KHAH|phrase|how are you? (to a man)|lit. "what is your peace?"
+ma shlomech?|מה שלומך|mah shloh-MEKH|phrase|how are you? (to a woman)|
+ma nishma?|מה נשמע|mah neesh-MAH|phrase|what's up? how's it going?|lit. "what is heard?"
+beseder|בסדר|beh-SEH-der|adverb|OK; all right; fine|lit. "in order"
+sababa|סבבה|sah-BAH-bah|adjective|cool; great; fine|slang from Arabic
+yofi|יופי|YOH-fee|interjection|great! beautiful!|lit. "beauty"
+achla|אחלה|AKH-lah|adjective|excellent; great|slang from Arabic
+b'emet?|באמת|beh-EH-met|phrase|really?|lit. "in truth"
+nayim me'od|נעים מאוד|nah-EEM meh-OHD|phrase|pleased to meet you|lit. "very pleasant"
+ani|אני|ah-NEE|pronoun|I|
+ata|אתה|ah-TAH|pronoun|you (masculine)|
+at|את|AHT|pronoun|you (feminine)|
+hu|הוא|HOO|pronoun|he|
+hi|היא|HEE|pronoun|she|
+anachnu|אנחנו|ah-NAKH-noo|pronoun|we|
+hem|הם|HEM|pronoun|they (masculine)|
+mi|מי|MEE|pronoun|who|
+ma|מה|MAH|pronoun|what|
+eifo|איפה|AY-foh|adverb|where|
+matai|מתי|mah-TY|adverb|when|
+lama|למה|LAH-mah|adverb|why|
+eich|איך|AYKH|adverb|how|
+kama|כמה|KAH-mah|adverb|how much; how many|
+kama ze ole?|כמה זה עולה|KAH-mah zeh oh-LEH|phrase|how much does it cost?|
+echad|אחד|eh-KHAD|number|one|
+shtayim|שתיים|SHTAH-yeem|number|two|
+shalosh|שלוש|shah-LOHSH|number|three|
+arba|ארבע|ar-BAH|number|four|
+chamesh|חמש|khah-MESH|number|five|
+shesh|שש|SHESH|number|six|
+sheva|שבע|SHEH-vah|number|seven|
+shmone|שמונה|shmoh-NEH|number|eight|
+tesha|תשע|TEH-shah|number|nine|
+eser|עשר|EH-ser|number|ten|
+me'a|מאה|meh-AH|number|hundred|
+elef|אלף|EH-lef|number|thousand|
+ish|איש|EESH|noun|man|
+isha|אישה|ee-SHAH|noun|woman; wife|
+yeled|ילד|YEH-led|noun|boy; child|
+yalda|ילדה|yahl-DAH|noun|girl|
+yeladim|ילדים|yeh-lah-DEEM|noun|children|
+aba|אבא|AH-bah|noun|dad; father|
+ima|אמא|EE-mah|noun|mum; mother|
+ach|אח|AKH|noun|brother|
+achot|אחות|ah-KHOHT|noun|sister; nurse|
+saba|סבא|SAH-bah|noun|grandfather|
+savta|סבתא|SAHV-tah|noun|grandmother|
+ben|בן|BEN|noun|son|
+bat|בת|BAHT|noun|daughter|
+chaver|חבר|khah-VER|noun|friend; boyfriend; member|
+chavera|חברה|khah-veh-RAH|noun|friend (female); girlfriend|
+mishpacha|משפחה|meesh-pah-KHAH|noun|family|
+bayit|בית|BAH-yeet|noun|house; home|
+ir|עיר|EER|noun|city|
+eretz|ארץ|EH-retz|noun|land; country|
+ha'aretz|הארץ|hah-AH-retz|noun|"the Land" — Israel|
+Yisra'el|ישראל|yees-rah-EL|noun|Israel|
+Yerushalayim|ירושלים|yeh-roo-shah-LAH-yeem|noun|Jerusalem|
+Tel Aviv|תל אביב|tel ah-VEEV|noun|Tel Aviv|lit. "hill of spring"
+ivrit|עברית|eev-REET|noun|the Hebrew language|
+anglit|אנגלית|ahn-GLEET|noun|the English language|
+ata medaber anglit?|אתה מדבר אנגלית|ah-TAH meh-dah-BER ahn-GLEET|phrase|do you speak English? (to a man)|
+ani lo mevin|אני לא מבין|ah-NEE loh meh-VEEN|phrase|I don't understand (man speaking)|
+ani lo mevina|אני לא מבינה|ah-NEE loh meh-vee-NAH|phrase|I don't understand (woman speaking)|
+mayim|מים|MAH-yeem|noun|water|
+lechem|לחם|LEH-khem|noun|bread|
+chalav|חלב|khah-LAHV|noun|milk|
+yayin|יין|YAH-yeen|noun|wine|
+kafe|קפה|kah-FEH|noun|coffee|
+te|תה|TEH|noun|tea|
+basar|בשר|bah-SAHR|noun|meat; flesh|
+of|עוף|OHF|noun|chicken; poultry|
+dag|דג|DAHG|noun|fish|
+beitza|ביצה|bay-TZAH|noun|egg|
+pri|פרי|PREE|noun|fruit|
+tapuach|תפוח|tah-POO-akh|noun|apple|
+tapuz|תפוז|tah-POOZ|noun|orange|from "tapuach zahav", golden apple
+humus|חומוס|KHOO-moos|noun|hummus; chickpeas|
+falafel|פלאפל|fah-LAH-fel|noun|fried chickpea balls|
+pita|פיתה|PEE-tah|noun|flat pocket bread|
+shakshuka|שקשוקה|shahk-SHOO-kah|noun|eggs poached in tomato sauce|
+sabich|סביח|sah-BEEKH|noun|a pita with fried aubergine and egg|
+okhel|אוכל|OH-khel|noun|food|
+aruchat boker|ארוחת בוקר|ah-roo-KHAHT BOH-ker|noun|breakfast|
+aruchat erev|ארוחת ערב|ah-roo-KHAHT EH-rev|noun|dinner|
+be'te'avon|בתיאבון|beh-teh-ah-VOHN|phrase|enjoy your meal; bon appétit|lit. "with appetite"
+l'chaim|לחיים|leh-KHAH-yeem|phrase|cheers! (to life)|
+yom|יום|YOHM|noun|day|
+layla|לילה|LY-lah|noun|night|
+boker|בוקר|BOH-ker|noun|morning|
+erev|ערב|EH-rev|noun|evening|
+hayom|היום|hah-YOHM|adverb|today|
+machar|מחר|mah-KHAR|adverb|tomorrow|
+etmol|אתמול|et-MOHL|adverb|yesterday|
+achshav|עכשיו|akh-SHAHV|adverb|now|
+od me'at|עוד מעט|ohd meh-AHT|phrase|soon; in a little while|
+shana|שנה|shah-NAH|noun|year|
+shavua|שבוע|shah-VOO-ah|noun|week|
+chodesh|חודש|KHOH-desh|noun|month|
+sha'a|שעה|shah-AH|noun|hour|
+zman|זמן|ZMAHN|noun|time|
+shemesh|שמש|SHEH-mesh|noun|sun|
+yare'ach|ירח|yah-REH-akh|noun|moon|
+shamayim|שמיים|shah-MAH-yeem|noun|sky; heaven|
+yam|ים|YAHM|noun|sea|
+har|הר|HAHR|noun|mountain|
+midbar|מדבר|meed-BAR|noun|desert; wilderness|
+gan|גן|GAHN|noun|garden; kindergarten|
+geshem|גשם|GEH-shem|noun|rain|
+chom|חום|KHOHM|noun|heat; fever|
+gadol|גדול|gah-DOHL|adjective|big; great|
+katan|קטן|kah-TAHN|adjective|small|
+tov|טוב|TOHV|adjective|good|
+ra|רע|RAH|adjective|bad; evil|
+chadash|חדש|khah-DAHSH|adjective|new|
+yashan|ישן|yah-SHAHN|adjective|old (things)|
+zaken|זקן|zah-KEN|adjective|old (people)|
+yafe|יפה|yah-FEH|adjective|beautiful; nice|
+cham|חם|KHAHM|adjective|hot|
+kar|קר|KAHR|adjective|cold|
+same'ach|שמח|sah-MEH-akh|adjective|happy|
+atzuv|עצוב|ah-TZOOV|adjective|sad|
+ayef|עייף|ah-YEF|adjective|tired|
+ra'ev|רעב|rah-EV|adjective|hungry|
+yakar|יקר|yah-KAHR|adjective|expensive; dear|
+zol|זול|ZOHL|adjective|cheap|
+lavan|לבן|lah-VAHN|adjective|white|
+shachor|שחור|shah-KHOHR|adjective|black|
+adom|אדום|ah-DOHM|adjective|red|
+kachol|כחול|kah-KHOHL|adjective|blue|
+yarok|ירוק|yah-ROHK|adjective|green|
+tzahov|צהוב|tzah-HOHV|adjective|yellow|
+lihyot|להיות|leeh-YOHT|verb|to be|
+la'asot|לעשות|lah-ah-SOHT|verb|to do; to make|
+lalechet|ללכת|lah-LEH-khet|verb|to go; to walk|
+lavo|לבוא|lah-VOH|verb|to come|
+le'echol|לאכול|leh-eh-KHOHL|verb|to eat|
+lishtot|לשתות|leesh-TOHT|verb|to drink|
+ledaber|לדבר|leh-dah-BER|verb|to speak|
+lomar|לומר|loh-MAR|verb|to say|
+lir'ot|לראות|leer-OHT|verb|to see|
+lishmo'a|לשמוע|leesh-MOH-ah|verb|to hear|
+lada'at|לדעת|lah-DAH-aht|verb|to know|
+lehavin|להבין|leh-hah-VEEN|verb|to understand|
+lilmod|ללמוד|leel-MOHD|verb|to learn; to study|
+lelamed|ללמד|leh-lah-MED|verb|to teach|
+likro|לקרוא|leek-ROH|verb|to read; to call|
+lichtov|לכתוב|leekh-TOHV|verb|to write|
+la'avod|לעבוד|lah-ah-VOHD|verb|to work; (biblical) to serve; to worship|
+lishon|לישון|lee-SHOHN|verb|to sleep|
+le'ehov|לאהוב|leh-eh-HOHV|verb|to love|
+lirtzot|לרצות|leer-TZOHT|verb|to want|
+lagur|לגור|lah-GOOR|verb|to live (reside)|
+lichyot|לחיות|leekh-YOHT|verb|to live (be alive)|
+lehitpalel|להתפלל|leh-heet-pah-LEL|verb|to pray|

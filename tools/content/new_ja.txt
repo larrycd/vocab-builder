@@ -1,0 +1,151 @@
+konnichiwa|こんにちは|kohn-nee-chee-wah|phrase|hello; good afternoon|
+ohayō gozaimasu|おはようございます|oh-hah-yoh goh-zy-mahss|phrase|good morning (polite)|
+konbanwa|こんばんは|kohn-bahn-wah|phrase|good evening|
+sayōnara|さようなら|sah-yoh-nah-rah|phrase|goodbye|
+oyasumi nasai|おやすみなさい|oh-yah-soo-mee nah-sy|phrase|good night|
+arigatō gozaimasu|ありがとうございます|ah-ree-gah-toh goh-zy-mahss|phrase|thank you very much|
+dōitashimashite|どういたしまして|doh-ee-tah-shee-mash-teh|phrase|you're welcome|
+sumimasen|すみません|soo-mee-mah-sen|phrase|excuse me; sorry|
+gomen nasai|ごめんなさい|goh-men nah-sy|phrase|I'm sorry|
+onegaishimasu|お願いします|oh-neh-gy-shee-mahss|phrase|please (requesting)|
+hai|はい|hy|interjection|yes|
+iie|いいえ|ee-eh|interjection|no|
+itadakimasu|いただきます|ee-tah-dah-kee-mahss|phrase|said before eating ("I humbly receive")|
+gochisōsama deshita|ごちそうさまでした|goh-chee-soh-sah-mah desh-tah|phrase|said after eating ("it was a feast")|
+irasshaimase|いらっしゃいませ|ee-rah-shy-mah-seh|phrase|welcome (said to customers)|
+hajimemashite|はじめまして|hah-jee-meh-mash-teh|phrase|pleased to meet you|
+yoroshiku onegaishimasu|よろしくお願いします|yoh-roh-shee-koo oh-neh-gy-shee-mahss|phrase|I look forward to working with you; please treat me well|
+ganbatte|頑張って|gahn-baht-teh|phrase|do your best! good luck!|
+daijōbu|大丈夫|dy-joh-boo|adjective|all right; OK|
+kawaii|可愛い|kah-wah-ee|adjective|cute|
+sugoi|すごい|soo-goy|adjective|amazing; terrific|
+oishii|美味しい|oy-shee|adjective|delicious|
+watashi|私|wah-tah-shee|pronoun|I; me|
+anata|あなた|ah-nah-tah|pronoun|you|
+kare|彼|kah-reh|pronoun|he; boyfriend|
+kanojo|彼女|kah-noh-joh|pronoun|she; girlfriend|
+nan / nani|何|nahn / nah-nee|pronoun|what|
+dare|誰|dah-reh|pronoun|who|
+doko|どこ|doh-koh|pronoun|where|
+itsu|いつ|ee-tsoo|pronoun|when|
+naze|なぜ|nah-zeh|adverb|why|
+ikura|いくら|ee-koo-rah|pronoun|how much (price)|
+ichi|一|ee-chee|number|one|
+ni|二|nee|number|two|
+san|三|sahn|number|three|
+shi / yon|四|shee / yohn|number|four|shi also means "death"
+go|五|goh|number|five|
+roku|六|roh-koo|number|six|
+nana / shichi|七|nah-nah / shee-chee|number|seven|
+hachi|八|hah-chee|number|eight|
+kyū|九|kyoo|number|nine|
+jū|十|joo|number|ten|
+hyaku|百|hyah-koo|number|hundred|
+sen|千|sen|number|thousand|
+man|万|mahn|number|ten thousand|
+mizu|水|mee-zoo|noun|water|
+ocha|お茶|oh-chah|noun|tea (green tea)|
+gohan|ご飯|goh-hahn|noun|cooked rice; a meal|
+sakana|魚|sah-kah-nah|noun|fish|
+niku|肉|nee-koo|noun|meat|
+sake|酒|sah-keh|noun|alcohol; rice wine|
+sushi|寿司|soo-shee|noun|vinegared rice with fish or other toppings|
+rāmen|ラーメン|rah-men|noun|noodle soup|
+bentō|弁当|ben-toh|noun|a packed meal in a box|
+tamago|卵|tah-mah-goh|noun|egg|
+hito|人|hee-toh|noun|person|
+tomodachi|友達|toh-moh-dah-chee|noun|friend|
+kazoku|家族|kah-zoh-koo|noun|family|
+chichi|父|chee-chee|noun|(my) father|
+haha|母|hah-hah|noun|(my) mother|
+kodomo|子供|koh-doh-moh|noun|child|
+sensei|先生|sen-say|noun|teacher; master; doctor|lit. "born before"
+gakusei|学生|gah-koo-say|noun|student|
+ie / uchi|家|ee-eh / oo-chee|noun|house; home|
+gakkō|学校|gahk-koh|noun|school|
+eki|駅|eh-kee|noun|railway station|
+densha|電車|den-shah|noun|train|
+kuruma|車|koo-roo-mah|noun|car|
+michi|道|mee-chee|noun|road; way|
+yama|山|yah-mah|noun|mountain|
+kawa|川|kah-wah|noun|river|
+umi|海|oo-mee|noun|sea|
+sora|空|soh-rah|noun|sky|
+ame|雨|ah-meh|noun|rain|
+yuki|雪|yoo-kee|noun|snow|
+hana|花|hah-nah|noun|flower|
+sakura|桜|sah-koo-rah|noun|cherry blossom|
+ki|木|kee|noun|tree; wood|
+hi|火|hee|noun|fire|
+tsuki|月|tsoo-kee|noun|moon; month|
+hi / nichi|日|hee / nee-chee|noun|sun; day|
+kyō|今日|kyoh|noun|today|
+ashita|明日|ah-shtah|noun|tomorrow|
+kinō|昨日|kee-noh|noun|yesterday|
+ima|今|ee-mah|noun|now|
+jikan|時間|jee-kahn|noun|time; hour|
+toshi|年|toh-shee|noun|year; age|
+okane|お金|oh-kah-neh|noun|money|
+hon|本|hohn|noun|book|
+kotoba|言葉|koh-toh-bah|noun|word; language|
+nihongo|日本語|nee-hohn-goh|noun|the Japanese language|
+Nihon / Nippon|日本|nee-hohn / neep-pohn|noun|Japan|lit. "origin of the sun"
+eigo|英語|ay-goh|noun|the English language|
+taberu|食べる|tah-beh-roo|verb|to eat|
+nomu|飲む|noh-moo|verb|to drink|
+iku|行く|ee-koo|verb|to go|
+kuru|来る|koo-roo|verb|to come|
+miru|見る|mee-roo|verb|to see; to look|
+kiku|聞く|kee-koo|verb|to hear; to ask|
+hanasu|話す|hah-nah-soo|verb|to speak|
+yomu|読む|yoh-moo|verb|to read|
+kaku|書く|kah-koo|verb|to write|
+wakaru|分かる|wah-kah-roo|verb|to understand|
+suru|する|soo-roo|verb|to do|
+aru|ある|ah-roo|verb|to exist (things)|
+iru|いる|ee-roo|verb|to exist (living things)|
+suki|好き|soo-kee|adjective|liked; favourite|
+kirai|嫌い|kee-ry|adjective|disliked|
+ōkii|大きい|oh-kee|adjective|big|
+chiisai|小さい|chee-sy|adjective|small|
+atarashii|新しい|ah-tah-rah-shee|adjective|new|
+furui|古い|foo-roo-ee|adjective|old (things)|
+takai|高い|tah-ky|adjective|tall; expensive|
+yasui|安い|yah-soo-ee|adjective|cheap|
+atsui|暑い|ah-tsoo-ee|adjective|hot (weather)|
+samui|寒い|sah-moo-ee|adjective|cold (weather)|
+utsukushii|美しい|oo-tsoo-koo-shee|adjective|beautiful|
+genki|元気|gen-kee|adjective|healthy; energetic; well|
+kami|神|kah-mee|noun|god; spirit; deity|
+kamisama|神様|kah-mee-sah-mah|noun|God (respectful)|
+Kirisuto|キリスト|kee-ree-soo-toh|noun|Christ|
+Seisho|聖書|say-shoh|noun|the Bible|lit. "holy book"
+kyōkai|教会|kyoh-ky|noun|church|
+inori|祈り|ee-noh-ree|noun|prayer|
+ai|愛|eye|noun|love|
+kokoro|心|koh-koh-roh|noun|heart; mind; spirit|
+wa|和|wah|noun|harmony; peace; Japanese style|
+ikigai|生き甲斐|ee-kee-gy|noun|a reason for living|
+wabi-sabi|侘寂|wah-bee sah-bee|noun|beauty in imperfection and transience|
+mono no aware|物の哀れ|moh-noh noh ah-wah-reh|phrase|a gentle sadness at the passing of things|
+kintsugi|金継ぎ|keen-tsoo-gee|noun|repairing broken pottery with gold|
+shinrin-yoku|森林浴|sheen-reen yoh-koo|noun|forest bathing|
+omotenashi|おもてなし|oh-moh-teh-nah-shee|noun|wholehearted hospitality|
+kaizen|改善|ky-zen|noun|continuous improvement|
+senpai|先輩|sen-py|noun|a senior colleague or student|
+kōhai|後輩|koh-hy|noun|a junior colleague or student|
+otaku|オタク|oh-tah-koo|noun|an obsessive fan|
+manga|漫画|mahn-gah|noun|Japanese comics|
+anime|アニメ|ah-nee-meh|noun|Japanese animation|
+samurai|侍|sah-moo-ry|noun|a warrior of the military nobility|
+bushidō|武士道|boo-shee-doh|noun|the way of the warrior; samurai code|
+ninja|忍者|neen-jah|noun|a covert agent in feudal Japan|
+dōjō|道場|doh-joh|noun|a training hall for martial arts|
+zen|禅|zen|noun|Zen Buddhism; meditation|
+haiku|俳句|hy-koo|noun|a 17-syllable poem|
+tatami|畳|tah-tah-mee|noun|a straw floor mat|
+kimono|着物|kee-moh-noh|noun|a traditional robe|lit. "thing to wear"
+onsen|温泉|ohn-sen|noun|a hot spring|
+karōshi|過労死|kah-roh-shee|noun|death from overwork|
+tsundoku|積ん読|tsoon-doh-koo|noun|buying books and leaving them unread|
+komorebi|木漏れ日|koh-moh-reh-bee|noun|sunlight filtering through leaves|

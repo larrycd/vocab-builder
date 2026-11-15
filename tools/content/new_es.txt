@@ -1,0 +1,199 @@
+hola|OH-lah|interjection|hello|
+buenos días|BWEH-nohs DEE-ahs|phrase|good morning|
+buenas tardes|BWEH-nahs TAR-dehs|phrase|good afternoon|
+buenas noches|BWEH-nahs NOH-chehs|phrase|good evening; good night|
+adiós|ah-DYOHS|interjection|goodbye|lit. "to God"
+hasta luego|AHS-tah LWEH-goh|phrase|see you later|
+hasta mañana|AHS-tah mahn-YAH-nah|phrase|see you tomorrow|
+gracias|GRAH-syahs|interjection|thank you|
+muchas gracias|MOO-chahs GRAH-syahs|phrase|thank you very much|
+de nada|deh NAH-dah|phrase|you're welcome|lit. "of nothing"
+por favor|por fah-VOR|phrase|please|
+perdón|pehr-DOHN|interjection|sorry; excuse me|
+lo siento|loh SYEN-toh|phrase|I'm sorry|lit. "I feel it"
+con permiso|kohn pehr-MEE-soh|phrase|excuse me (to pass)|
+sí|SEE|interjection|yes|
+no|NOH|interjection|no; not|
+¿Cómo estás?|KOH-moh ehs-TAHS|phrase|how are you? (informal)|
+bien|BYEN|adverb|well; fine|
+mal|MAHL|adverb|badly|
+me llamo...|meh YAH-moh|phrase|my name is...|lit. "I call myself"
+mucho gusto|MOO-choh GOOS-toh|phrase|pleased to meet you|
+bienvenido|byen-veh-NEE-doh|adjective|welcome|
+yo|YOH|pronoun|I|
+tú|TOO|pronoun|you (informal)|
+usted|oos-TEHD|pronoun|you (formal)|from "vuestra merced", your grace
+él|EHL|pronoun|he|
+ella|EH-yah|pronoun|she|
+nosotros|noh-SOH-trohs|pronoun|we|
+ellos|EH-yohs|pronoun|they|
+¿qué?|KEH|pronoun|what?|
+¿quién?|KYEN|pronoun|who?|
+¿dónde?|DOHN-deh|adverb|where?|
+¿cuándo?|KWAHN-doh|adverb|when?|
+¿por qué?|por KEH|adverb|why?|
+porque|POR-keh|conjunction|because|
+¿cómo?|KOH-moh|adverb|how?|
+¿cuánto?|KWAHN-toh|adverb|how much?|
+uno|OO-noh|number|one|
+dos|DOHS|number|two|
+tres|TREHS|number|three|
+cuatro|KWAH-troh|number|four|
+cinco|SEEN-koh|number|five|
+seis|SAYS|number|six|
+siete|SYEH-teh|number|seven|
+ocho|OH-choh|number|eight|
+nueve|NWEH-veh|number|nine|
+diez|DYEHS|number|ten|
+cien|SYEN|number|hundred|
+mil|MEEL|number|thousand|
+hombre|OHM-breh|noun|man|
+mujer|moo-HEHR|noun|woman; wife|
+niño|NEEN-yoh|noun|boy; child|
+niña|NEEN-yah|noun|girl|
+padre|PAH-dreh|noun|father; priest|
+madre|MAH-dreh|noun|mother|
+hermano|ehr-MAH-noh|noun|brother|
+hermana|ehr-MAH-nah|noun|sister|
+hijo|EE-hoh|noun|son|
+hija|EE-hah|noun|daughter|
+abuelo|ah-BWEH-loh|noun|grandfather|
+abuela|ah-BWEH-lah|noun|grandmother|
+amigo|ah-MEE-goh|noun|friend (male)|
+amiga|ah-MEE-gah|noun|friend (female)|
+familia|fah-MEEL-yah|noun|family|
+casa|KAH-sah|noun|house; home|
+ciudad|syoo-DAHD|noun|city|
+pueblo|PWEH-bloh|noun|town; village; people|
+país|pah-EES|noun|country|
+calle|KAH-yeh|noun|street|
+iglesia|ee-GLEH-syah|noun|church|from Greek ekklēsia
+escuela|ehs-KWEH-lah|noun|school|
+trabajo|trah-BAH-hoh|noun|work; job|
+dinero|dee-NEH-roh|noun|money|
+agua|AH-gwah|noun|water|
+pan|PAHN|noun|bread|
+vino|VEE-noh|noun|wine|
+leche|LEH-cheh|noun|milk|
+carne|KAR-neh|noun|meat|
+pollo|POH-yoh|noun|chicken|
+pescado|pehs-KAH-doh|noun|fish (as food)|
+huevo|WEH-voh|noun|egg|
+fruta|FROO-tah|noun|fruit|
+manzana|mahn-SAH-nah|noun|apple|
+naranja|nah-RAHN-hah|noun|orange|
+café|kah-FEH|noun|coffee; café|
+cerveza|sehr-VEH-sah|noun|beer|
+comida|koh-MEE-dah|noun|food; meal|
+desayuno|deh-sah-YOO-noh|noun|breakfast|
+almuerzo|ahl-MWEHR-soh|noun|lunch|
+cena|SEH-nah|noun|dinner|
+día|DEE-ah|noun|day|
+noche|NOH-cheh|noun|night|
+hoy|OY|adverb|today|
+mañana|mahn-YAH-nah|noun|tomorrow; morning|
+ayer|ah-YEHR|adverb|yesterday|
+ahora|ah-OH-rah|adverb|now|
+siempre|SYEM-preh|adverb|always|
+nunca|NOON-kah|adverb|never|
+tiempo|TYEM-poh|noun|time; weather|
+año|AHN-yoh|noun|year|
+semana|seh-MAH-nah|noun|week|
+mes|MEHS|noun|month|
+sol|SOHL|noun|sun|
+luna|LOO-nah|noun|moon|
+cielo|SYEH-loh|noun|sky; heaven|
+tierra|TYEH-rah|noun|earth; land|
+mar|MAR|noun|sea|
+río|REE-oh|noun|river|
+montaña|mohn-TAHN-yah|noun|mountain|
+playa|PLAH-yah|noun|beach|
+lluvia|YOO-vyah|noun|rain|
+grande|GRAHN-deh|adjective|big; great|
+pequeño|peh-KEHN-yoh|adjective|small|
+bueno|BWEH-noh|adjective|good|
+malo|MAH-loh|adjective|bad|
+nuevo|NWEH-voh|adjective|new|
+viejo|VYEH-hoh|adjective|old|
+bonito|boh-NEE-toh|adjective|pretty; nice|
+hermoso|ehr-MOH-soh|adjective|beautiful|
+feliz|feh-LEES|adjective|happy|
+triste|TREES-teh|adjective|sad|
+cansado|kahn-SAH-doh|adjective|tired|
+caliente|kah-LYEN-teh|adjective|hot|
+frío|FREE-oh|adjective|cold|
+rojo|ROH-hoh|adjective|red|
+blanco|BLAHN-koh|adjective|white|
+negro|NEH-groh|adjective|black|
+verde|VEHR-deh|adjective|green|
+azul|ah-SOOL|adjective|blue|
+amarillo|ah-mah-REE-yoh|adjective|yellow|
+ser|SEHR|verb|to be (permanent)|
+estar|ehs-TAR|verb|to be (state or location)|
+tener|teh-NEHR|verb|to have|
+hacer|ah-SEHR|verb|to do; to make|
+ir|EER|verb|to go|
+venir|veh-NEER|verb|to come|
+comer|koh-MEHR|verb|to eat|
+beber|beh-BEHR|verb|to drink|
+hablar|ah-BLAR|verb|to speak|
+decir|deh-SEER|verb|to say; to tell|
+ver|VEHR|verb|to see|
+oír|oh-EER|verb|to hear|
+saber|sah-BEHR|verb|to know (facts)|
+conocer|koh-noh-SEHR|verb|to know (people, places)|
+querer|keh-REHR|verb|to want; to love|
+amar|ah-MAR|verb|to love|
+vivir|vee-VEER|verb|to live|
+morir|moh-REER|verb|to die|
+leer|leh-EHR|verb|to read|
+escribir|ehs-kree-BEER|verb|to write|
+trabajar|trah-bah-HAR|verb|to work|
+dormir|dor-MEER|verb|to sleep|
+rezar|reh-SAR|verb|to pray|
+Dios|DYOHS|noun|God|
+Señor|sehn-YOR|noun|Lord; sir; Mr|
+Jesucristo|heh-soo-KREES-toh|noun|Jesus Christ|
+Biblia|BEE-blyah|noun|the Bible|
+alma|AHL-mah|noun|soul|
+corazón|koh-rah-SOHN|noun|heart|
+amor|ah-MOR|noun|love|
+fe|FEH|noun|faith|
+esperanza|ehs-peh-RAHN-sah|noun|hope|
+paz|PAHS|noun|peace|
+verdad|vehr-DAHD|noun|truth|
+vida|VEE-dah|noun|life|
+muerte|MWEHR-teh|noun|death|
+gloria|GLOH-ryah|noun|glory|
+gracia|GRAH-syah|noun|grace|
+santo|SAHN-toh|adjective|holy; saint|
+bendición|ben-dee-SYOHN|noun|blessing|
+cuidado|kwee-DAH-doh|noun|care; (interjection) careful!|
+¡Ojalá!|oh-hah-LAH|interjection|if only! I hope so!|from Arabic "if God wills"
+¡Salud!|sah-LOOD|interjection|cheers! bless you! (after a sneeze)|lit. "health"
+¡Olé!|oh-LEH|interjection|bravo!|
+¡Vamos!|VAH-mohs|interjection|let's go!|
+¡Qué bueno!|keh BWEH-noh|phrase|how great!|
+No pasa nada|noh PAH-sah NAH-dah|phrase|no problem; it's nothing|
+¿Qué tal?|keh TAHL|phrase|how's it going?|
+Feliz Navidad|feh-LEES nah-vee-DAHD|phrase|Merry Christmas|
+Feliz cumpleaños|feh-LEES koom-pleh-AHN-yohs|phrase|Happy birthday|
+Te quiero|teh KYEH-roh|phrase|I love you (affectionate)|
+Te amo|teh AH-moh|phrase|I love you (deeply)|
+No entiendo|noh en-TYEN-doh|phrase|I don't understand|
+¿Habla inglés?|AH-blah een-GLEHS|phrase|Do you speak English?|
+¿Dónde está el baño?|DOHN-deh ehs-TAH el BAHN-yoh|phrase|Where is the bathroom?|
+¿Cuánto cuesta?|KWAHN-toh KWEHS-tah|phrase|How much does it cost?|
+La cuenta, por favor|lah KWEN-tah por fah-VOR|phrase|The bill, please|
+Mi casa es su casa|mee KAH-sah ehs soo KAH-sah|phrase|my house is your house; make yourself at home|
+Poco a poco|POH-koh ah POH-koh|phrase|little by little|
+Sobremesa|soh-breh-MEH-sah|noun|time spent chatting at the table after a meal|
+Madrugada|mah-droo-GAH-dah|noun|the early hours before dawn|
+Duende2||—|—|—
+Estrenar|ehs-treh-NAR|verb|to use or wear something for the first time|
+Friolero|free-oh-LEH-roh|adjective|always feeling the cold|
+Tocayo|toh-KAH-yoh|noun|a person with the same name as you|
+Puente|PWEN-teh|noun|a bridge; a long weekend made by taking a day off|
+Vale|VAH-leh|interjection|OK; all right (Spain)|
+Guay|GWY|adjective|cool; great (Spain)|
+Chévere|CHEH-veh-reh|adjective|cool; great (Latin America)|
