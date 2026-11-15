@@ -1,0 +1,152 @@
+nǐ hǎo|你好|nee HOW|phrase|hello|lit. "you good"
+xièxie|谢谢|shyeh-shyeh|phrase|thank you|
+bú kèqi|不客气|boo kuh-chee|phrase|you're welcome|lit. "don't be polite"
+duìbuqǐ|对不起|dway-boo-chee|phrase|sorry|
+méi guānxi|没关系|may gwan-shee|phrase|it doesn't matter; never mind|
+zàijiàn|再见|dzy-jyen|phrase|goodbye|lit. "again see"
+qǐng|请|ching|verb|please; to invite|
+shì|是|shir|verb|to be; yes|
+bù|不|boo|adverb|not; no|
+wǒ|我|waw|pronoun|I; me|
+nǐ|你|nee|pronoun|you|
+tā|他/她|tah|pronoun|he; she|same sound, different characters
+wǒmen|我们|waw-mun|pronoun|we; us|
+hǎo|好|how|adjective|good; well|
+ài|爱|eye|verb|to love|
+xǐhuan|喜欢|shee-hwan|verb|to like|
+yǒu|有|yoh|verb|to have; there is|
+méiyǒu|没有|may-yoh|verb|not have; there is not|
+qù|去|chü|verb|to go|
+lái|来|ly|verb|to come|
+chī|吃|chir|verb|to eat|
+hē|喝|huh|verb|to drink|
+shuō|说|shwaw|verb|to speak; to say|
+kàn|看|kahn|verb|to look; to see; to read|
+tīng|听|ting|verb|to listen|
+xiǎng|想|shyahng|verb|to think; to want; to miss|
+zhīdào|知道|jir-dow|verb|to know (a fact)|
+rènshi|认识|run-shir|verb|to know (a person); to recognise|
+xuéxí|学习|shweh-shee|verb|to study; to learn|
+gōngzuò|工作|goong-dzwaw|noun|work; job|
+péngyou|朋友|pung-yoh|noun|friend|
+jiā|家|jyah|noun|home; family|
+bàba|爸爸|bah-bah|noun|father; dad|
+māma|妈妈|mah-mah|noun|mother; mum|
+háizi|孩子|hy-dzuh|noun|child|
+lǎoshī|老师|laow-shir|noun|teacher|
+xuésheng|学生|shweh-shung|noun|student|
+rén|人|run|noun|person; people|
+Zhōngguó|中国|joong-gwaw|noun|China|lit. "middle kingdom"
+Zhōngwén|中文|joong-wun|noun|the Chinese language (written)|
+Pǔtōnghuà|普通话|poo-toong-hwah|noun|Mandarin; standard Chinese|lit. "common speech"
+Hànzì|汉字|hahn-dzuh|noun|Chinese characters|
+shuǐ|水|shway|noun|water|
+chá|茶|chah|noun|tea|
+fàn|饭|fahn|noun|cooked rice; a meal|
+mǐfàn|米饭|mee-fahn|noun|cooked rice|
+miàn|面|myen|noun|noodles; face; side|
+jiǎozi|饺子|jyaow-dzuh|noun|dumplings|
+cài|菜|tsy|noun|dish; vegetables|
+ròu|肉|roh|noun|meat|
+yú|鱼|yü|noun|fish|
+jī|鸡|jee|noun|chicken|
+qián|钱|chyen|noun|money|
+duōshao|多少|daw-shaow|pronoun|how much; how many|
+jǐ|几|jee|pronoun|how many (small numbers)|
+shénme|什么|shun-muh|pronoun|what|
+shéi|谁|shay|pronoun|who|
+nǎr|哪儿|nar|pronoun|where|
+wèishénme|为什么|way-shun-muh|adverb|why|
+zěnme|怎么|dzun-muh|adverb|how|
+yī|一|ee|number|one|
+èr|二|ar|number|two|
+sān|三|sahn|number|three|
+sì|四|suh|number|four|sounds like "death" (sǐ), so considered unlucky
+wǔ|五|woo|number|five|
+liù|六|lyoh|number|six|
+qī|七|chee|number|seven|
+bā|八|bah|number|eight|lucky; sounds like fā "prosper"
+jiǔ|九|jyoh|number|nine|
+shí|十|shir|number|ten|
+bǎi|百|by|number|hundred|
+qiān|千|chyen|number|thousand|
+wàn|万|wahn|number|ten thousand|
+jīntiān|今天|jin-tyen|noun|today|
+míngtiān|明天|ming-tyen|noun|tomorrow|
+zuótiān|昨天|dzwaw-tyen|noun|yesterday|
+xiànzài|现在|shyen-dzy|noun|now|
+shíjiān|时间|shir-jyen|noun|time|
+nián|年|nyen|noun|year|
+yuè|月|yweh|noun|month; moon|
+rì|日|rir|noun|day; sun|
+tiān|天|tyen|noun|day; sky; heaven|
+shān|山|shahn|noun|mountain|
+hé|河|huh|noun|river|
+huǒ|火|hwaw|noun|fire|
+mù|木|moo|noun|wood; tree|
+tǔ|土|too|noun|earth; soil|
+jīn|金|jin|noun|gold; metal|
+dà|大|dah|adjective|big|
+xiǎo|小|shyaow|adjective|small|
+duō|多|daw|adjective|many; much|
+shǎo|少|shaow|adjective|few; little|
+xīn|新|shin|adjective|new|
+lǎo|老|laow|adjective|old|
+kuài|快|kwy|adjective|fast; quick|
+màn|慢|mahn|adjective|slow|
+guì|贵|gway|adjective|expensive|
+piányi|便宜|pyen-ee|adjective|cheap|
+piàoliang|漂亮|pyaow-lyahng|adjective|beautiful|
+gāoxìng|高兴|gaow-shing|adjective|happy; glad|
+lèi|累|lay|adjective|tired|
+è|饿|uh|adjective|hungry|
+rè|热|ruh|adjective|hot|
+lěng|冷|lung|adjective|cold|
+máng|忙|mahng|adjective|busy|
+hěn|很|hun|adverb|very|
+tài|太|ty|adverb|too (excessively)|
+yě|也|yeh|adverb|also|
+dōu|都|doh|adverb|all; both|
+hé|和|huh|conjunction|and; with|
+dànshì|但是|dahn-shir|conjunction|but|
+yīnwèi|因为|in-way|conjunction|because|
+suǒyǐ|所以|swaw-ee|conjunction|so; therefore|
+ma|吗|mah|particle|question particle (makes a yes/no question)|
+le|了|luh|particle|marks completed action or change|
+de|的|duh|particle|possessive particle ('s; of)|
+zài|在|dzy|preposition|at; in; (verb) to be located|
+guānxi|关系|gwan-shee|noun|connections; relationships that help get things done|widely used in English as "guanxi"
+miànzi|面子|myen-dzuh|noun|face; reputation; dignity|
+mǎmǎ hūhū|马马虎虎|mah-mah hoo-hoo|phrase|so-so; careless|lit. "horse horse tiger tiger"
+jiāyóu|加油|jyah-yoh|phrase|come on! keep going! (encouragement)|lit. "add oil"
+gānbēi|干杯|gahn-bay|phrase|cheers! (a toast)|lit. "dry the cup"
+Xīnnián kuàilè|新年快乐|shin-nyen kwy-luh|phrase|Happy New Year|
+gōngxǐ fācái|恭喜发财|goong-shee fah-tsy|phrase|wishing you prosperity (Lunar New Year greeting)|Cantonese "kung hei fat choi"
+shàngdì|上帝|shahng-dee|noun|God (Protestant usage)|lit. "supreme ruler"
+Shén|神|shun|noun|God; a god; spirit|
+Yēsū|耶稣|yeh-soo|noun|Jesus|
+Shèngjīng|圣经|shung-jing|noun|the Bible|lit. "holy scripture"
+jiàotáng|教堂|jyaow-tahng|noun|church (building)|
+dǎogào|祷告|daow-gaow|verb|to pray|
+āmén|阿们|ah-mun|interjection|amen|
+xìn|信|shin|verb|to believe; (noun) a letter|
+ēndiǎn|恩典|un-dyen|noun|grace|
+píng'ān|平安|ping-ahn|noun|peace; safety|
+dào|道|daow|noun|the Way; Tao; the Word (in John 1)|
+Kǒngzǐ|孔子|koong-dzuh|noun|Confucius|lit. "Master Kong"
+lǐ|礼|lee|noun|ritual propriety; courtesy|Confucian virtue
+rén|仁|run|noun|benevolence; humaneness|Confucian virtue
+xiào|孝|shyaow|noun|filial piety|
+qì|气|chee|noun|vital energy; breath; air|in English as "qi" or "chi"
+fēngshuǐ|风水|fung-shway|noun|feng shui|lit. "wind water"
+yīn yáng|阴阳|yin yahng|noun|yin and yang; complementary opposites|
+gōngfu|功夫|goong-foo|noun|skill gained by effort; kung fu|
+diànnǎo|电脑|dyen-naow|noun|computer|lit. "electric brain"
+shǒujī|手机|shoh-jee|noun|mobile phone|lit. "hand machine"
+diànshì|电视|dyen-shir|noun|television|lit. "electric vision"
+huǒchē|火车|hwaw-chuh|noun|train|lit. "fire vehicle"
+fēijī|飞机|fay-jee|noun|aeroplane|lit. "flying machine"
+yīyuàn|医院|ee-ywen|noun|hospital|
+yínháng|银行|yin-hahng|noun|bank|lit. "silver firm"
+shāngdiàn|商店|shahng-dyen|noun|shop|
+cèsuǒ|厕所|tsuh-swaw|noun|toilet|

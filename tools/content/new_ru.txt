@@ -1,0 +1,196 @@
+privet|привет|pree-VYET|phrase|hi|informal
+zdravstvuyte|здравствуйте|ZDRAST-vooy-tyeh|phrase|hello (formal)|
+dobroye utro|доброе утро|DOH-brah-yeh OO-trah|phrase|good morning|
+dobryy den'|добрый день|DOH-bree dyen|phrase|good afternoon|
+dobryy vecher|добрый вечер|DOH-bree VYEH-cher|phrase|good evening|
+spokoynoy nochi|спокойной ночи|spah-KOY-nay NOH-chee|phrase|good night|
+do svidaniya|до свидания|dah svee-DAHN-yah|phrase|goodbye|lit. "until meeting"
+poka|пока|pah-KAH|phrase|bye|informal
+spasibo|спасибо|spah-SEE-bah|phrase|thank you|from "spasi Bog", God save
+bol'shoye spasibo|большое спасибо|bahl-SHOH-yeh spah-SEE-bah|phrase|thank you very much|
+pozhaluysta|пожалуйста|pah-ZHAHL-stah|phrase|please; you're welcome|
+izvinite|извините|eez-vee-NEE-tyeh|phrase|excuse me; sorry|
+prostite|простите|prah-STEE-tyeh|phrase|forgive me; sorry|
+da|да|dah|interjection|yes|
+net|нет|nyet|interjection|no|
+khorosho|хорошо|khah-rah-SHOH|adverb|good; well; OK|
+plokho|плохо|PLOH-khah|adverb|badly|
+kak dela?|как дела?|kahk dyeh-LAH|phrase|how are you?|
+normal'no|нормально|nar-MAHL-nah|adverb|fine; OK|
+ochen' priyatno|очень приятно|OH-chen pree-YAHT-nah|phrase|pleased to meet you|
+menya zovut...|меня зовут...|mee-NYAH zah-VOOT|phrase|my name is...|lit. "they call me"
+ya|я|yah|pronoun|I|
+ty|ты|tih|pronoun|you (informal)|
+vy|вы|vih|pronoun|you (formal or plural)|
+on|он|ohn|pronoun|he|
+ona|она|ah-NAH|pronoun|she|
+my|мы|mih|pronoun|we|
+oni|они|ah-NEE|pronoun|they|
+chto|что|shtoh|pronoun|what|
+kto|кто|ktoh|pronoun|who|
+gde|где|gdyeh|adverb|where|
+kogda|когда|kahg-DAH|adverb|when|
+pochemu|почему|pah-cheh-MOO|adverb|why|
+kak|как|kahk|adverb|how|
+skol'ko|сколько|SKOHL-kah|adverb|how much; how many|
+odin|один|ah-DEEN|number|one|
+dva|два|dvah|number|two|
+tri|три|tree|number|three|
+chetyre|четыре|cheh-TIH-reh|number|four|
+pyat'|пять|pyaht|number|five|
+shest'|шесть|shest|number|six|
+sem'|семь|syem|number|seven|
+vosem'|восемь|VOH-syem|number|eight|
+devyat'|девять|DYEH-vyat|number|nine|
+desyat'|десять|DYEH-syat|number|ten|
+sto|сто|stoh|number|hundred|
+tysyacha|тысяча|TIH-syah-chah|number|thousand|
+chelovek|человек|cheh-lah-VYEK|noun|person; human being|
+lyudi|люди|LYOO-dee|noun|people|
+muzhchina|мужчина|moozh-CHEE-nah|noun|man|
+zhenshchina|женщина|ZHEN-shchee-nah|noun|woman|
+mal'chik|мальчик|MAHL-cheek|noun|boy|
+devochka|девочка|DYEH-vach-kah|noun|girl|
+rebyonok|ребёнок|ree-BYOH-nak|noun|child|
+deti|дети|DYEH-tee|noun|children|
+mat'|мать|maht|noun|mother|
+otets|отец|ah-TYETS|noun|father|
+mama|мама|MAH-mah|noun|mum|
+papa|папа|PAH-pah|noun|dad|
+brat|брат|braht|noun|brother|
+sestra|сестра|sees-TRAH|noun|sister|
+drug|друг|drook|noun|friend|
+sem'ya|семья|seem-YAH|noun|family|
+dom|дом|dohm|noun|house; home|
+gorod|город|GOH-rat|noun|city; town|
+derevnya|деревня|dee-REV-nyah|noun|village|
+strana|страна|strah-NAH|noun|country|
+Rossiya|Россия|rah-SEE-yah|noun|Russia|
+russkiy|русский|ROOS-kee|adjective|Russian|
+yazyk|язык|yah-ZIK|noun|language; tongue|
+slovo|слово|SLOH-vah|noun|word|
+kniga|книга|KNEE-gah|noun|book|
+shkola|школа|SHKOH-lah|noun|school|
+uchitel'|учитель|oo-CHEE-tyel|noun|teacher|
+rabota|работа|rah-BOH-tah|noun|work; job|
+den'gi|деньги|DYEN-gee|noun|money|
+voda|вода|vah-DAH|noun|water|
+chay|чай|chy|noun|tea|
+kofe|кофе|KOH-feh|noun|coffee|
+khleb|хлеб|khlyep|noun|bread|
+moloko|молоко|mah-lah-KOH|noun|milk|
+myaso|мясо|MYAH-sah|noun|meat|
+ryba|рыба|RIH-bah|noun|fish|
+sup|суп|soop|noun|soup|
+borshch|борщ|borshch|noun|beetroot soup|
+vodka|водка|VOHT-kah|noun|vodka|lit. "little water"
+pivo|пиво|PEE-vah|noun|beer|
+yabloko|яблоко|YAH-blah-kah|noun|apple|
+den'|день|dyen|noun|day|
+noch'|ночь|nohch|noun|night|
+utro|утро|OO-trah|noun|morning|
+vecher|вечер|VYEH-cher|noun|evening|
+segodnya|сегодня|see-VOHD-nyah|adverb|today|
+zavtra|завтра|ZAHF-trah|adverb|tomorrow|
+vchera|вчера|fcheh-RAH|adverb|yesterday|
+seychas|сейчас|see-CHAHS|adverb|now|
+vremya|время|VRYEM-yah|noun|time|
+god|год|goht|noun|year|
+nedelya|неделя|nee-DYEL-yah|noun|week|
+mesyats|месяц|MYEH-syats|noun|month|
+zima|зима|zee-MAH|noun|winter|
+leto|лето|LYEH-tah|noun|summer|
+vesna|весна|vees-NAH|noun|spring|
+osen'|осень|OH-syen|noun|autumn|
+sneg|снег|snyek|noun|snow|
+dozhd'|дождь|dohsht|noun|rain|
+solntse|солнце|SOHN-tseh|noun|sun|
+luna|луна|loo-NAH|noun|moon|
+nebo|небо|NYEH-bah|noun|sky; heaven|
+zemlya|земля|zeem-LYAH|noun|earth; land|
+more|море|MOH-reh|noun|sea|
+reka|река|ree-KAH|noun|river|
+les|лес|lyes|noun|forest|
+gora|гора|gah-RAH|noun|mountain|
+doroga|дорога|dah-ROH-gah|noun|road|
+mashina|машина|mah-SHEE-nah|noun|car|
+poyezd|поезд|POH-yezt|noun|train|
+samolyot|самолёт|sah-mah-LYOHT|noun|aeroplane|lit. "self-flyer"
+bol'shoy|большой|bahl-SHOY|adjective|big|
+malen'kiy|маленький|MAH-len-kee|adjective|small|
+novyy|новый|NOH-vee|adjective|new|
+staryy|старый|STAH-ree|adjective|old|
+krasivyy|красивый|krah-SEE-vee|adjective|beautiful|
+khoroshiy|хороший|khah-ROH-shee|adjective|good|
+plokhoy|плохой|plah-KHOY|adjective|bad|
+krasnyy|красный|KRAHS-nee|adjective|red|Krasnaya ploshchad' = Red (once "beautiful") Square
+belyy|белый|BYEH-lee|adjective|white|
+chyornyy|чёрный|CHOR-nee|adjective|black|
+goryachiy|горячий|gah-RYAH-chee|adjective|hot|
+kholodnyy|холодный|khah-LOHD-nee|adjective|cold|
+byt'|быть|bit|verb|to be|
+imet'|иметь|ee-MYET|verb|to have|
+govorit'|говорить|gah-vah-REET|verb|to speak|
+ponimat'|понимать|pah-nee-MAHT|verb|to understand|
+znat'|знать|znaht|verb|to know|
+lyubit'|любить|lyoo-BEET|verb|to love|
+khotet'|хотеть|khah-TYET|verb|to want|
+idti|идти|eed-TEE|verb|to go (on foot)|
+yekhat'|ехать|YEH-khat|verb|to go (by transport)|
+est'|есть|yest|verb|to eat; there is|
+pit'|пить|peet|verb|to drink|
+chitat'|читать|chee-TAHT|verb|to read|
+pisat'|писать|pee-SAHT|verb|to write|
+rabotat'|работать|rah-BOH-tat|verb|to work|
+zhit'|жить|zhit|verb|to live|
+dumat'|думать|DOO-mat|verb|to think|
+videt'|видеть|VEE-dyet|verb|to see|
+slyshat'|слышать|SLIH-shat|verb|to hear|
+molit'sya|молиться|mah-LEET-syah|verb|to pray|
+Bog|Бог|bohkh|noun|God|
+Gospod'|Господь|gahs-POHT|noun|the Lord|
+Iisus Khristos|Иисус Христос|ee-ee-SOOS khree-STOHS|noun|Jesus Christ|
+Bibliya|Библия|BEEB-lee-yah|noun|the Bible|
+tserkov'|церковь|TSER-kaf|noun|church|
+molitva|молитва|mah-LEET-vah|noun|prayer|
+dusha|душа|doo-SHAH|noun|soul|
+lyubov'|любовь|lyoo-BOHF|noun|love|
+mir|мир|meer|noun|peace; world; (old) village commune|
+vera|вера|VYEH-rah|noun|faith|
+nadezhda|надежда|nah-DYEZH-dah|noun|hope|
+pravda|правда|PRAHV-dah|noun|truth|also the name of the Soviet newspaper
+istina|истина|EES-tee-nah|noun|truth (absolute, higher truth)|
+svoboda|свобода|svah-BOH-dah|noun|freedom|
+Khristos voskres!|Христос воскрес!|khree-STOHS vahs-KRYES|phrase|Christ is risen! (Easter greeting)|reply: Voistinu voskres! "He is risen indeed!"
+ikona|икона|ee-KOH-nah|noun|an icon (holy image)|
+tovarishch|товарищ|tah-VAH-reeshch|noun|comrade|
+dacha|дача|DAH-chah|noun|a country cottage|
+babushka|бабушка|BAH-boosh-kah|noun|grandmother|
+dedushka|дедушка|DYEH-doosh-kah|noun|grandfather|
+matryoshka|матрёшка|mah-TRYOSH-kah|noun|a nesting doll|
+toska|тоска|tahs-KAH|noun|a deep spiritual anguish or longing|Nabokov's favourite untranslatable word
+poshlost'|пошлость|POHSH-last|noun|vulgar, self-satisfied banality|discussed by Nabokov
+avos'|авось|ah-VOHS|adverb|perhaps; by chance (trusting to luck)|
+nichego|ничего|nee-cheh-VOH|pronoun|nothing; never mind; not bad|
+vsyo|всё|fsyoh|pronoun|everything; that's all|
+nado|надо|NAH-dah|adverb|it is necessary|
+mozhno|можно|MOZH-nah|adverb|it is possible; may I?|
+nel'zya|нельзя|neel-ZYAH|adverb|it is forbidden; impossible|
+ochen'|очень|OH-chen|adverb|very|
+tozhe|тоже|TOH-zheh|adverb|also|
+i|и|ee|conjunction|and|
+no|но|noh|conjunction|but|
+potomu chto|потому что|pah-tah-MOO shtoh|conjunction|because|
+Na zdorov'ye!|На здоровье!|nah zdah-ROHV-yeh|phrase|cheers! (to your health); you're welcome (for food)|
+Ura!|Ура!|oo-RAH|interjection|hurrah!|
+Bozhe moy!|Боже мой!|BOH-zheh moy|phrase|my God!|
+Ne za chto|Не за что|NYEH-zah-shtah|phrase|don't mention it|
+S Novym godom!|С Новым годом!|s NOH-vim GOH-dam|phrase|Happy New Year!|
+S dnyom rozhdeniya!|С днём рождения!|s dnyom razh-DYEN-ee-yah|phrase|Happy birthday!|
+Ya tebya lyublyu|Я тебя люблю|yah tee-BYAH lyoo-BLYOO|phrase|I love you|
+Ya ne ponimayu|Я не понимаю|yah nee pah-nee-MAH-yoo|phrase|I don't understand|
+Vy govorite po-angliyski?|Вы говорите по-английски?|vih gah-vah-REE-tyeh pah-ahn-GLEE-skee|phrase|Do you speak English?|
+Gde tualet?|Где туалет?|gdyeh too-ah-LYET|phrase|Where is the toilet?|
+Skol'ko stoit?|Сколько стоит?|SKOHL-kah STOH-eet|phrase|How much does it cost?|
+Pomogite!|Помогите!|pah-mah-GEE-tyeh|phrase|Help!|
+Doveryay, no proveryay|Доверяй, но проверяй|dah-vee-RYAY noh prah-vee-RYAY|phrase|trust, but verify|proverb quoted by Reagan

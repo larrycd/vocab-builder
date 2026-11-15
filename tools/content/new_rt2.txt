@@ -1,0 +1,180 @@
+nat-|NAYT|root (Latin)|born|native, nativity, prenatal
+nau-, nav-|NAW, NAV|root (Greek/Latin)|ship|nautical, navy, navigate
+necro-|NEK-roh|root (Greek)|dead|necropolis, necromancy
+neo-|NEE-oh|prefix (Greek)|new|neophyte, neologism, Neolithic
+neur-|NYOOR|root (Greek)|nerve|neurology, neurotic
+nom-|NOHM|root (Greek)|law; custom|autonomy, economy, Deuteronomy
+nomen-, nym-|NOH-men, NIM|root (Latin/Greek)|name|nominate, synonym, anonymous
+non-|NON|prefix (Latin)|not|nonsense, nonentity
+nov-|NOHV|root (Latin)|new|novel, novice, renovate
+nunci-, nounce-|NUN-see|root (Latin)|announce; messenger|annunciation, pronounce, nuncio
+ob-|OB|prefix (Latin)|against; in the way|obstacle, object, obstruct
+oct-|OKT|prefix (Greek/Latin)|eight|octagon, octave, octopus
+-oid|OYD|suffix (Greek)|like; resembling|android, humanoid, asteroid
+-ology|OL-uh-jee|suffix (Greek)|study of|biology, theology, ecclesiology
+omni-|OM-nee|prefix (Latin)|all|omnipotent, omniscient, omnivore
+onym-|ON-im|root (Greek)|name|pseudonym, acronym, eponym
+ortho-|OR-thoh|prefix (Greek)|straight; correct|orthodox, orthodontist, orthography
+osteo-|OS-tee-oh|root (Greek)|bone|osteoporosis, osteopath
+pac-|PAS|root (Latin)|peace|pacify, pacifist
+paed-, ped-|PEED|root (Greek)|child|paediatric, pedagogy, encyclopaedia
+pan-|PAN|prefix (Greek)|all|panorama, pandemic, pantheism
+para-|PAR-uh|prefix (Greek)|beside; beyond|parable, paradox, parallel
+pater-, patr-|PAY-ter|root (Latin/Greek)|father|paternal, patriarch, patristic
+path-|PATH|root (Greek)|feeling; suffering; disease|sympathy, apathy, pathology
+ped-, pod-|PED, POD|root (Latin/Greek)|foot|pedestrian, podium, tripod
+pel-, puls-|PEL, PULS|root (Latin)|drive; push|compel, repel, impulse
+pend-, pens-|PEND|root (Latin)|hang; weigh; pay|pendant, suspend, compensate
+penta-|PEN-tuh|prefix (Greek)|five|pentagon, Pentateuch, Pentecost
+per-|PUR|prefix (Latin)|through; thoroughly|perfect, perennial, persevere
+peri-|PER-ee|prefix (Greek)|around|perimeter, periscope, pericope
+phag-|FAYJ|root (Greek)|eat|sarcophagus, anthropophagy
+-phagy|FAY-jee|suffix (Greek)|eating|anthropophagy, coprophagy
+phil-|FIL|root (Greek)|love|philosophy, philanthropy, Philadelphia
+-phobia|FOH-bee-uh|suffix (Greek)|fear|claustrophobia, xenophobia
+phon-|FOHN|root (Greek)|sound; voice|telephone, symphony, phonetic
+phos-, phot-|FOS, FOHT|root (Greek)|light|phosphorus, photograph
+phyl-|FYL|root (Greek)|tribe; race|phylum, phylogeny
+physi-|FIZ-ee|root (Greek)|nature|physics, physiology
+plac-|PLAS|root (Latin)|please; calm|placate, placid, complacent
+pneum-|NYOOM|root (Greek)|breath; spirit; lung|pneumonia, pneumatology
+pol-|POL|root (Greek)|city|politics, metropolis, police
+poly-|POL-ee|prefix (Greek)|many|polygon, polytheism, polyglot
+port-|PORT|root (Latin)|carry|transport, portable, export
+pos-, pon-|POZ, POHN|root (Latin)|put; place|position, postpone, component
+post-|POHST|prefix (Latin)|after|postpone, postscript, posthumous
+pre-|PREE|prefix (Latin)|before|predict, prevent, prepare
+prim-|PRYM|root (Latin)|first|primary, primeval, primate
+pro-|PROH|prefix (Latin/Greek)|forward; for; before|proceed, prophet, prologue
+proto-|PROH-toh|prefix (Greek)|first|prototype, protozoa, protomartyr
+pseudo-|SYOO-doh|prefix (Greek)|false|pseudonym, pseudepigrapha
+psych-|SYK|root (Greek)|mind; soul|psychology, psyche
+pyr-|PYR|root (Greek)|fire|pyre, pyromaniac, pyrotechnics
+quad-, quart-|KWOD, KWORT|root (Latin)|four|quadrilateral, quarter
+re-|REE|prefix (Latin)|again; back|return, revive, redeem
+rect-|REKT|root (Latin)|straight; right|rectangle, correct, rectitude
+retro-|RET-roh|prefix (Latin)|backward|retrospect, retrograde
+rupt-|RUPT|root (Latin)|break|rupture, erupt, interrupt
+sacr-, sanct-|SAKR, SANKT|root (Latin)|holy|sacred, sacrament, sanctify
+sarc-|SARK|root (Greek)|flesh|sarcophagus, sarcasm
+schism-, schiz-|SKIZ|root (Greek)|split|schism, schizophrenia
+scope|SKOHP|root (Greek)|look at; examine|telescope, microscope, episcopal
+scrib-, script-|SKRYB, SKRIPT|root (Latin)|write|scribe, scripture, manuscript
+se-|SEE|prefix (Latin)|apart|separate, secede, seclude
+sect-|SEKT|root (Latin)|cut|dissect, section, intersect
+semi-|SEM-ee|prefix (Latin)|half|semicircle, semifinal
+sens-, sent-|SENS, SENT|root (Latin)|feel; perceive|sensation, sentiment, consent
+sept-|SEPT|prefix (Latin)|seven|September (once the 7th month), Septuagint
+sequ-, secut-|SEK-wuh|root (Latin)|follow|sequence, consequence, persecute
+sol-|SOHL|root (Latin)|sun; alone|solar, solitude, solo
+solv-, solut-|SOLV|root (Latin)|loosen|solve, dissolve, absolution
+soph-|SOF|root (Greek)|wise; wisdom|philosophy, sophisticated, sophomore
+spec-, spect-|SPEK|root (Latin)|look|spectacle, inspect, perspective
+spir-|SPYR|root (Latin)|breathe|inspire, spirit, respiration
+stat-|STAT|root (Latin)|stand|statue, stationary, status
+-stasis|STAY-sis|suffix (Greek)|standing; stopping|homeostasis, hypostasis
+string-, strict-|STRING|root (Latin)|draw tight|stringent, restrict, constrict
+struct-|STRUKT|root (Latin)|build|structure, construct, instruct
+sub-|SUB|prefix (Latin)|under|submarine, subordinate, subscribe
+super-|SOO-per|prefix (Latin)|above; over|superior, supervise, superfluous
+sym-, syn-|SIM, SIN|prefix (Greek)|with; together|symphony, synagogue, synoptic
+tact-, tang-|TAKT, TANJ|root (Latin)|touch|contact, tangible, tactile
+tele-|TEL-ee|prefix (Greek)|far|telephone, television, telescope
+tempor-|TEM-por|root (Latin)|time|temporary, contemporary
+ten-, tain-|TEN, TAYN|root (Latin)|hold|tenure, retain, tenacious
+terr-|TER|root (Latin)|earth; land|terrain, territory, terrestrial
+tetra-|TET-ruh|prefix (Greek)|four|tetragon, Tetragrammaton
+the-, theo-|THEE-oh|root (Greek)|god|theology, atheist, theocracy
+therm-|THURM|root (Greek)|heat|thermometer, thermal
+tom-|TOM|root (Greek)|cut|atom, anatomy, appendectomy
+tort-|TORT|root (Latin)|twist|distort, torture, tortuous
+tox-|TOKS|root (Greek)|poison|toxic, intoxicate
+tract-|TRAKT|root (Latin)|pull; drag|tractor, attract, distract
+trans-|TRANZ|prefix (Latin)|across|transport, transfigure, transgress
+tri-|TRY|prefix (Greek/Latin)|three|triangle, Trinity, tripod
+-tude|TYOOD|suffix (Latin)|state or quality of|gratitude, solitude, fortitude
+un-|UN|prefix (English)|not|unhappy, unknown
+uni-|YOO-nee|prefix (Latin)|one|uniform, unity, unicorn
+urb-|URB|root (Latin)|city|urban, suburb
+vac-|VAK|root (Latin)|empty|vacant, vacuum, evacuate
+ven-, vent-|VEN, VENT|root (Latin)|come|advent, convene, intervene
+ver-|VEER|root (Latin)|true|verify, verdict, veracity
+verb-|VURB|root (Latin)|word|verbal, verbose, verbatim
+vert-, vers-|VURT, VURS|root (Latin)|turn|convert, reverse, introvert
+vid-, vis-|VID, VIZ|root (Latin)|see|video, vision, provide
+vinc-, vict-|VINS, VIKT|root (Latin)|conquer|invincible, victory, convince
+viv-, vit-|VIV, VYT|root (Latin)|live; life|vivid, vitality, revive
+voc-, vok-|VOHK|root (Latin)|call; voice|vocal, invoke, vocation
+vol-|VOL|root (Latin)|wish; will|volunteer, benevolent, volition
+volv-, volut-|VOLV|root (Latin)|roll; turn|revolve, evolution, involve
+vor-|VOR|root (Latin)|eat greedily|voracious, carnivore, omnivore
+xeno-|ZEN-oh|root (Greek)|foreign; stranger|xenophobia, xenophile
+xylo-|ZY-loh|root (Greek)|wood|xylophone
+zo-|ZOH|root (Greek)|animal; life|zoology, zodiac, protozoa
+acro-|AK-roh|root (Greek)|top; high; tip|acrobat, acropolis, acronym
+-acious|AY-shus|suffix (Latin)|inclined to; full of|loquacious, tenacious, audacious
+acu-|AK-yoo|root (Latin)|sharp|acute, acumen, acupuncture
+adelph-|uh-DELF|root (Greek)|brother|Philadelphia
+aesthe-|ES-thuh|root (Greek)|perception; feeling|aesthetic, anaesthetic
+alg-|ALJ|root (Greek)|pain|analgesic, nostalgia
+angel-|AN-jel|root (Greek)|messenger|angel, evangelist
+apoc-|uh-POK|root (Greek)|hidden; away|Apocrypha, apocalypse
+-ary, -ory|AIR-ee, OR-ee|suffix (Latin)|place for; relating to|library, dormitory, sanctuary
+bapt-|BAPT|root (Greek)|dip; immerse|baptism, Baptist
+bar-|BAR|root (Greek)|weight; pressure|barometer
+belli-|BEL-ee|root (Latin)|war|bellicose, belligerent
+brev-|BREV|root (Latin)|short|brevity, abbreviate
+calc-|KALK|root (Latin)|stone; limestone|calculate, calcium
+cand-|KAND|root (Latin)|white; glowing|candid, candle, candidate
+cant-, chant-|KANT|root (Latin)|sing|cantor, chant, incantation
+cent-|SENT|root (Latin)|hundred|century, centurion, percent
+centr-|SENTR|root (Greek/Latin)|centre|central, eccentric
+chrom-|KROHM|root (Greek)|colour|chromatic, monochrome
+chron-|KRON|root (Greek)|time|chronology, chronicle, synchronise
+chrys-|KRIS|root (Greek)|gold|chrysalis, Chrysostom ("golden-mouthed")
+civ-|SIV|root (Latin)|citizen|civil, civic, civilisation
+clin-|KLYN|root (Greek/Latin)|lean; bed|incline, clinic, recline
+cogn-|KOG-n|root (Latin)|know|recognise, cognition, incognito
+cord-|KORD|root (Latin)|heart|cordial, concord, accord
+cosmo-|KOZ-moh|root (Greek)|universe|cosmology
+crat-|KRAT|root (Greek)|ruler|bureaucrat, democrat
+cumul-|KYOOM-yool|root (Latin)|heap|accumulate, cumulative
+cycl2|—|—|—|—
+dactyl-|DAK-til|root (Greek)|finger|pterodactyl, dactyl
+deca-|DEK-uh|prefix (Greek)|ten|decathlon, Decalogue
+demi-|DEM-ee|prefix (French/Latin)|half|demigod
+dendr-|DENDR|root (Greek)|tree|rhododendron, dendrology
+dexter-|DEK-ster|root (Latin)|right hand; skilful|dexterity, ambidextrous
+dorm-|DORM|root (Latin)|sleep|dormitory, dormant
+dorm2|—|—|—|—
+-dox|DOKS|suffix (Greek)|opinion|orthodox, paradox
+du-|DYOO|root (Latin)|two|duet, dual, duplicate
+ego2|—|—|—|—
+-ectomy|EK-tuh-mee|suffix (Greek)|surgical removal|appendectomy, tonsillectomy
+ethn-|ETHN|root (Greek)|nation; people|ethnic, ethnology
+etym-|ET-im|root (Greek)|true sense|etymology
+fals-|FAWLS|root (Latin)|false|falsify, fallacy
+fel-|FEEL|root (Latin)|cat|feline
+ferv-|FURV|root (Latin)|boil; glow|fervent, effervescent
+fil-|FIL|root (Latin)|son; daughter; thread|filial, filament
+flor-|FLOR|root (Latin)|flower|floral, florist, flourish
+foli-|FOH-lee|root (Latin)|leaf|foliage, portfolio
+fus-|FYOOZ|root (Latin)|pour; melt|transfusion, fusion, confuse
+glot-, gloss-|GLOT, GLOS|root (Greek)|tongue; language|polyglot, glossary, glossolalia
+glyph-|GLIF|root (Greek)|carve|hieroglyph
+hapl-|HAPL|root (Greek)|single; simple|haploid
+helio-|HEE-lee-oh|root (Greek)|sun|heliocentric, helium
+hom-|HOM|root (Latin)|man; human|homicide, homage
+iatr-|eye-AT-r|root (Greek)|healer; doctor|paediatrician, psychiatry
+icon-|EYE-kon|root (Greek)|image|icon, iconoclast
+idio-|ID-ee-oh|root (Greek)|one's own; peculiar|idiom, idiosyncrasy, idiot
+infra-|IN-fruh|prefix (Latin)|below|infrastructure, infrared
+inter-|IN-ter|prefix (Latin)|between|interrupt, international, intercede
+intra-|IN-truh|prefix (Latin)|within|intravenous, intramural
+iso-|EYE-soh|prefix (Greek)|equal|isosceles, isotope, isobar
+-ize, -ise|YZ|suffix (Greek)|to make; to treat as|evangelise, baptise, modernise
+juven-|JOO-ven|root (Latin)|young|juvenile, rejuvenate
+lact-|LAKT|root (Latin)|milk|lactose, lactation
+lev-|LEV|root (Latin)|light; raise|levitate, levity, elevate
+logue|LOG|suffix (Greek)|speech; discourse|dialogue, monologue, prologue
+mania|MAY-nee-uh|suffix (Greek)|madness; obsession|kleptomania, bibliomania
