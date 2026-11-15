@@ -1,3 +1,5 @@
+![Vocab Builder](docs/banner.png)
+
 # Vocab Builder
 
 **by Larry Dalton**
@@ -35,6 +37,10 @@ Every word has a pronunciation guide. Words in the language decks are shown in t
   - Browse A–Z and tick words to add them in bulk. Words already in a deck are marked ✓ so nothing is duplicated.
 - **Listen:** reads words aloud using the voices installed on your computer.
 
+## How it works
+
+![How Vocab Builder works](docs/How-It-Works.png)
+
 ## Sources and licences
 
 - **Dictionary definitions:**
@@ -50,7 +56,8 @@ Every word has a pronunciation guide. Words in the language decks are shown in t
 server.ps1        local web server (Windows PowerShell 5.1)
 app/              the app: index.html, app.js, data/ (decks), dict/ (dictionary), fonts/
 setup/            installer scripts (Install.ps1, Uninstall.ps1, NSIS script)
-tools/            scripts used to build the decks and the dictionary
+tools/            scripts used to build the decks, the dictionary and the graphics
+docs/             banner and infographic
 ```
 
 To run without installing, use `powershell -ExecutionPolicy Bypass -File server.ps1 -Open`.
